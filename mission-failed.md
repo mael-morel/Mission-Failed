@@ -8,7 +8,7 @@ MISSION FAILED
 
 Après avoir développé un MVP, la MOE et la MOA s’engagent sur un cahier des charges à 3 ans. En attendant, les utilisateurs refusent de se servir du livrable en l’état. La MOA insiste sur le fait que les délais devront être tenus et la MOE promet que les délais seront tenus. Quelques mois plus tard, le projet est arrêté.
 Un an et demi de travail de plusieurs dizaines de personnes mis à la poubelle, plusieurs millions d’euros perdus, des prestataires sortis en catastrophe etc. Le bilan est lourd. Comment en est-on arrivés là? Le produit avait deux objectifs majeurs : rationaliser le développement d’offres de plusieurs départements et améliorer sensiblement le Time To Market. Comment? En intégrant un progiciel qui promettait assez de souplesse pour pouvoir créer une offre d’assurance en moins de 3 mois.
-Un an et demi et un REX plus tard, ce fiasco serait dû à de mauvais choix techniques, des erreurs de management et d’organisation en général. Mais un point a particulièrement retenu mon attention : comment ce fait-il qu’en 2019 on puisse encore développer des produits complexes avec une approche prédictive et un cahier des charges sur 3 ans?
+Un an et demi et un REX plus tard, ce fiasco serait dû à de mauvais choix techniques, des erreurs de management et d’organisation en général. Mais un point a particulièrement retenu mon attention : comment ce fait-il qu’en 2019 on puisse encore développer des produits informatiques complexes avec une approche prédictive et un cahier des charges sur 3 ans?
 
 #### Un échec cuisant : le plan à 3 ans
 
