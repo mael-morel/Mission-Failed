@@ -41,4 +41,5 @@ L'optimisme naïf de la Hiding Hand d'Hirschman n'apporte manifestement pas de s
 Je voulais conclure en partageant un contre exemple à cet échec. Il y a quelques années un projet de compteurs électriques communicants était lancé en fanfare. Les attentes étaient fortes. Un département majeur de ce SI démarra le projet comme il savait le faire : MOA, MOE, cahier des charges sur plusieurs années etc… Mais au bout d’un an, les indicateurs étaient au rouge. Le directeur du département était expérimenté et il pressentait l’échec à venir du projet. Il prit donc une décision courageuse : se faire accompagner, changer de méthode, faire des itérations et livrer un premier service de bout en bout. Aujourd’hui plus de 13 millions de compteurs Linky fournissent de l’électricité à 50 millions de français.
 
 [ (1) Albert O. Hirschman, « The principle of the Hiding Hand »](https://nationalaffairs.com/storage/app/uploads/public/58e/1a4/a29/58e1a4a298835643416368.pdf)
+
 [ (2) Bent Flyvbjergand et Cass R. Sunstein, « The principle of the Malevolent Hiding Hand; or, the Planning Fallacy Writ Large »](https://arxiv.org/ftp/arxiv/papers/1509/1509.01526.pdf)
